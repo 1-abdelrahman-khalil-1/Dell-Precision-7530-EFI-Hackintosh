@@ -1,4 +1,4 @@
-# Hackintosh EFI for Dell Precision 7530 (Coffee Lake)
+# Hackintosh EFI for Dell Precision 7530 (Coffee Lake) - macOS Sequoia
 
 Professional OpenCore EFI configuration for the **Dell Precision 7530** mobile workstation running macOS. This configuration focuses on stability and performance with the 8th Gen Intel H-series processors.
 
