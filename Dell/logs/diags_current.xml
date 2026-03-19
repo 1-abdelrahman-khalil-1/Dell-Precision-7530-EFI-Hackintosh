@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>92</LogNumber>
+    <LogTimeStamp>02/06/2026 14:31:24</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Warning</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <LogData>
+        <ePSALogTimeStamp>02/06/2026 14:31:04</ePSALogTimeStamp>
+        <ePSAVersion>4400.13</ePSAVersion>
+        <ErrorCode>2000:0000</ErrorCode>
+        <ValidationCode>124629</ValidationCode>
+        <ErrorMessage><![CDATA[SupportAssist detected a high system temperature. Ensure all cooling vents are clear of obstructions and uncovered when in use. (Previous Notebook Thermal Failure) Your system automatically powered off because it became warmer]]></ErrorMessage>
+      </LogData>
+      <MemRxHealed>FALSE</MemRxHealed>
+      <ePSAInfo><![CDATA[serviceTag=85Q8RV2&errCode=0000&ValCode=124629&uID=0DA43]]></ePSAInfo>
+      <ePSAFullVersion>4400.13</ePSAFullVersion>
+      <ePSAInvocationCount>1</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>PRV_THERMAL_FAIL</ErrorCategory>
+      <ErrorMessage><![CDATA[Your system automatically powered off because it became warmer than expected.
+This may have been caused by:
+ o) operating or storing the system in an environment where the ambient
+    temperature is too high, or
+ o) obstructing the air flow from the system fan vents.
+If this problem recurs, please call Dell Support with error code #M1004.
+]]></ErrorMessage>
+      <FRU_String><![CDATA[Previous Notebook Thermal Failure]]></FRU_String>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
